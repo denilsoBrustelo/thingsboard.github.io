@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 **/.DS_Store
 **/desktop.ini
 .jekyll-metadata
@@ -43,3 +44,28 @@ pom.xml.versionsBackup
 **/.env
 .instance_id
 >>>>>>> upstream/master
+=======
+thingsboard_gateway/venv/
+thingsboard_gateway/for_tests.py
+thingsboard_gateway/f_test.py
+thingsboard_gateway/develop_tests/
+thingsboard_gateway/logs/*
+thingsboard_gateway/config/connected_devices.json
+thingsboard_gateway/storage/data/
+.idea/
+/build/
+/deb_dist/
+/dist/
+/.mypy_cache/
+/thingsboard_gateway/storage/data_out/
+*.gz
+/logs/
+/python3-thingsboard-gateway.deb
+/python3-thingsboard-gateway.rpm
+/thingsboard_gateway.egg-info/
+/docker/python3-thingsboard-gateway.deb
+/data/
+/logs/
+__pycache__
+/thingsboard_gateway/config/
+>>>>>>> 51e1695654275fefe4c54a6e1567ede9925e2c2b
